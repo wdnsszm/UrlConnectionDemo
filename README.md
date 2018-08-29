@@ -1,0 +1,2 @@
+# UrlConnectionDemo
+向聚合数据的api接口发送请求，并且接受并解析传递的数据
